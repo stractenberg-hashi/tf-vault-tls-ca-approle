@@ -1,0 +1,2 @@
+# Enter the server hostname or IP address below WITHOUT "https://" or ":8200"
+server_url = "vault.server.hostname.com"
